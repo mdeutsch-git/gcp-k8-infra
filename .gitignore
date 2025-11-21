@@ -1,0 +1,6 @@
+scripts/tsb-cluster-onboard.sh
+.terraform/
+.tfstate*
+.terraform.lock.hcl
+kubeconfig*
+terraform.tfstate*
